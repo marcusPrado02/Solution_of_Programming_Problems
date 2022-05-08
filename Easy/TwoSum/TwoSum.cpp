@@ -4,7 +4,7 @@
 
 using std::vector;
 
-class TwoSum{
+class Solution{
 public:
      vector<int> twoSum(vector<int>& nums, int target){
           vector<int> result;
